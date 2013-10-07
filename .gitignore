@@ -1,3 +1,4 @@
+.vagrant
 Gemfile.lock
 Berksfile.lock
 tmp/
@@ -5,4 +6,3 @@ tmp/
 .kitchen
 *.swp
 .rvmrc
-
